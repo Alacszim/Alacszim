@@ -1,6 +1,12 @@
-## Hey! I'm Alacszim...
+## `Hey! I'm Alacszim...`
 
-# Languages
+- Full-Stack Web Developer
+- Discord Bot Developer
+- Roblox Developer
+
+<hr>
+
+# `Languages`
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,10 +16,11 @@
 
 <hr>
 
-:::note
+# `Projects`
+- [Shade Bot](https://discord.gg/MJEJUn6ZPn)
 
-Some **content** with _markdown_ `syntax`.
+<hr>
 
-# Socials
+# `Socials`
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=Alacszim#5862)
 ![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=Alacszim)
