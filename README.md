@@ -9,6 +9,9 @@
 ![SQLite](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr>
+:::note
+
+Some **content** with _markdown_ `syntax`.
 
 # Socials
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=Alacszim#5862)
