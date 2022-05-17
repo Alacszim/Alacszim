@@ -9,6 +9,7 @@
 ![SQLite](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr>
+
 :::note
 
 Some **content** with _markdown_ `syntax`.
