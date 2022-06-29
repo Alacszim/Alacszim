@@ -22,5 +22,5 @@
 <hr>
 
 # `Socials`
-![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=Alacszim#5862)
+![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=Alacszim:5862)
 ![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=Alacszim)
