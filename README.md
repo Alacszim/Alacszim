@@ -17,7 +17,7 @@
 <hr>
 
 # `Projects`
-- [Shade Bot](https://alacszim.github.io/Astro)
+- [Astro Bot](https://alacszim.github.io/Astro)
 
 <hr>
 
