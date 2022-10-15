@@ -17,7 +17,7 @@
 <hr>
 
 # `Projects`
-- [Shade Bot](https://discord.gg/MJEJUn6ZPn)
+- [Shade Bot](https://alacszim.github.io/Astro)
 
 <hr>
 
