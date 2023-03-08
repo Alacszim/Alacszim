@@ -17,7 +17,8 @@
 <hr>
 
 # `Projects`
-- [Astro Bot](https://alacszim.github.io/Astro)
+- [PyAssistant](https://github.com/Alacszim/Assistant)
+- [My Portfolio](https://alacszim.github.io/portfolio)
 
 <hr>
 
