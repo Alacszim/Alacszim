@@ -19,6 +19,7 @@
 # `Projects`
 - [PyAssistant](https://github.com/Alacszim/Assistant)
 - [My Portfolio](https://alacszim.github.io/portfolio)
+- [Astro](https://alacszim.github.io/Astro)
 
 <hr>
 
