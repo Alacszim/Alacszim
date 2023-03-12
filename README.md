@@ -21,6 +21,7 @@
 - [My Portfolio](https://alacszim.github.io/portfolio)
 - [Astro](https://alacszim.github.io/Astro)
 - [PyLogger](https://github.com/Alacszim/Logger)
+- [RblxReq](https://github.com/Alacszim/RblxReq)
 
 <hr>
 
