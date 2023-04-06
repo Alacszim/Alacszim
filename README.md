@@ -22,6 +22,7 @@
 - [Astro](https://alacszim.github.io/Astro)
 - [PyLogger](https://github.com/Alacszim/Logger)
 - [RblxReq](https://github.com/Alacszim/RblxReq)
+- [Scriptify Hub](https://github.com/TrickyAH/Scripts)
 
 <hr>
 
